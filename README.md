@@ -1,2 +1,2 @@
 # Virginia-Life-Expectancy-ML
-Using Virginia Health Opportunity Index (HOI) data and techniques used by the National Institute of Health (NIH) to predict life expectancy in Virginia and analyze what sectors to improve life expectancy
+Using Virginia Health Opportunity Index (HOI) data and techniques used by the National Institute of Health (NIH) to predict life expectancy in Virginia and analyze what sectors to improve life expectancy. Utilized CNN and multiple ML techniques including Linear Regression, Decision trees, Random Forest, XGB and optimized them grid search and epoch training. Hosted in Google Colab.
